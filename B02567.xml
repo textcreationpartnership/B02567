@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of Andrew and Jeronimy Clifford</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02567</idno>
+            <idno type="STC">Wing C878B</idno>
+            <idno type="STC">ESTC R173435</idno>
+            <idno type="EEBO-CITATION">52211896</idno>
+            <idno type="OCLC">ocm 52211896</idno>
+            <idno type="VID">175466</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02567)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175466)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2738:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of Andrew and Jeronimy Clifford</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication data suggested by Wing.</note>
+                  <note>Reproduction of the original in the Lincoln's Inn Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Clifford, Andrew --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>Clifford, Jeronimy, d. 1737 --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>Societeit van Suriname --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>Great Britain --  Foreign relations --  Netherlands --  Early works to 1800.</term>
+               <term>Netherlands --  Foreign relations --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:175466:1" rendition="simple:additions"/>
+            <head>THE CASE OF <hi>Andrew</hi> and <hi>Jeronimy Clifford.</hi>
+            </head>
+            <p>
+               <hi>ANdrew</hi> and <hi>Jeroinmy Clifford,</hi> being greatly injur'd by grievous Fines, and a long Impriſonment at <hi>Surinam,</hi> by the <hi>Dutch,</hi> contrary to the Articles of Peace, Petitioned the laſt Parliament for Relief, and a Committee was appointed to Examine the truth of it, which appearing plain to them, they prepared a Report in his favour, which the Chairman was ready to make to the Houſe, but the <hi>Dutch</hi> Ambaſſador, by his Agents, interpoſed, and promiſed Satisfaction, whereupon the Committee Adviſed them to deſiſt proſe<g ref="char:EOLhyphen"/>cuting their Petition any farther, and to apply to His Majeſty for His Recommen<g ref="char:EOLhyphen"/>dation to the States-General for Relief, which they did.</p>
+            <p>The Secretary of State, by His Majeſty's Order the 13th of <hi>June</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, wrote to the Ambaſſador for that purpoſe, and his Excellency Sir <hi>Joſeph Williamſon</hi> the 2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d of <hi>September</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> delivered in a Memorial to the States-General purſuant to the ſaid Orders, and <hi>Jeronimy Clifford</hi> the 19th of <hi>September</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Petitioned the States Ge<g ref="char:EOLhyphen"/>neral by the Penſionaries Order for Relief, but his Excellency never received any Anſwer, nor could the ſaid <hi>Clifford</hi> obtain any Redreſs, though he was in Perſon there, and ſollicited <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> months and more for it.</p>
+            <p>
+               <hi>Jeronimy Clifford,</hi> and his Father, conceive, and are adviſed, that their Caſe is a Publick Caſe, like that of Major <hi>Banniſter</hi> in <hi>Surinam,</hi> and ſuch as the States-General are obliged by the Articles of the Treaty of Peace in <hi>Anno</hi> 1667, and 1674, to ſee Redreſſed.</p>
+            <p>And therefore humbly pray this Honourable Houſe will be pleaſed to take the Premiſſes into Conſideration, and to afford ſuch Effectual Relief, as in their great Wiſdom ſhall ſeem meet, <hi>&amp;c.</hi>
+            </p>
+            <div type="report">
+               <head>May <hi>17. 1698.</hi> A True Copy of the Report prepared laſt Seſſion of Parliament</head>
+               <p>THE Committee have Examined the Matter of the Petition, and find, that the Petitioners are <hi>Engliſhmen,</hi> and were Inhabitants in <hi>Surinam</hi> when it was taken by the <hi>Dutch Anno</hi> 1667; And that by the 6th Article of the Capitulation all the Inabitants were to have and enjoy all equal Priviledges as the <hi>Netherlanders</hi> that ſhould Cohabit with them; And by the 7th Article, That in Caſe any Inhabitants of that Colony ſhould then or thereafter intend to depart thence, he ſhould have power to ſell his Eſtate; and the Government in ſuch Caſe ſhould procure, that he be Tranſ<g ref="char:EOLhyphen"/>ported at a Moderate Freight, together with his Eſtate.</p>
+               <p>That the Governor and Council of <hi>Surinam</hi> Fined <hi>Jeronimy Clifford</hi> 30000 pound weight of Sugar, and Charges of Suit, and to beg Pardon on his Knees for Repre<g ref="char:EOLhyphen"/>ſenting his Grievances to them by Petition, which in the following Sentence is called a Gracious Sentence.</p>
+               <p>That the ſaid <hi>Jeronimy</hi> was (whilſt he was in Priſon) proſecuted Criminally for preſenting another Petition to the Governor and Council concerning his Oppreſſion
+<pb n="2" facs="tcp:175466:2" rendition="simple:additions"/>and Injuries relating chiefly to a Conteſt about the Sale of a Negro the 4th of <hi>Ja<g ref="char:EOLhyphen"/>nuary</hi> 1692, wherein as it is there alledged, many diſorderly Words are found, and amongſt the reſt, that he threatned the Government with theſe Words: That in Caſe the Honourable Court keeps him any longer in Priſon, he ſhall be forced to uſe ſuch other Means as he ſhall be adviſed for Relief. And further alledging, That the Petitioner <hi>Jeronimy</hi> had publickly accuſed the Governor of unjuſtly pro<g ref="char:EOLhyphen"/>ſecuting him; And alſo, That the Petitioner (then a Priſoner) ſpake other more ill-natur'd, foul, and trifling Words, which (as is ſaid) were too long to be there repeated; Wherefore the Provincional <hi>Fiſcal</hi> the Proſecuter, demanded, That he the ſaid <hi>Jeronimy,</hi> as a Mutineer and Troubler of the Common Peace, ſhould be brought to the Place of Execution, and Whipt to Death; and to have his Goods Confiſcated to the uſe of the ſaid <hi>Fiſcal,</hi> and to pay the Charges of the Suit. Where<g ref="char:EOLhyphen"/>upon the Governor and Council Adjudged, that the Demand of the ſaid <hi>Fiſcal</hi> was rightly founded in all its parts, but inclining more to Clemency than the utmoſt rigor of Juſtice, the ſaid Court (acting in the Name of the States-General, His Ma<g ref="char:EOLhyphen"/>jeſty of <hi>Great-Britain,</hi> as their Stadtholder, and of the Directors, Patrons, and Lords of the ſaid Colony) Condemned the ſaid <hi>Jeronimy Clifford</hi> to Seven years Im<g ref="char:EOLhyphen"/>priſonment in the Fort <hi>Somerſdyke,</hi> there to be Chaſtiſed; likewiſe Fined him in the Sum of 150000 pound weight of Sugar, whereof 60000 <hi>l.</hi> to be to the ſaid Pro<g ref="char:EOLhyphen"/>vincional <hi>Fiſcal,</hi> the Proſecutor; 50000 to the Modical Laſt, <hi>alias</hi> the Treaſury of the Colony, and 40000 for Building a new Houſe of Correction.</p>
+               <p>That the Petitioner was on many other Occaſions Oppreſs'd and Fined, as he al<g ref="char:EOLhyphen"/>ledges, to the value of 20000 <hi>l. Sterling</hi> and upwards, which the Petitioner offered to prove particularly; but this Committee not judging it to be the Intention of the Houſe, that they ſhould Examine all the particular Damages which the Petitioner ſuſtained, which would take up much time— And for that the Petitioners deſire no no other Reparation than for what Damages they ſhall make appear when it ſhall come to be allowed: Therefore this Committee did not enter into a particular Ex<g ref="char:EOLhyphen"/>mination thereof, but further find.</p>
+               <p>That the ſaid <hi>Jeronimy</hi> remaining in Priſon at <hi>Surinam,</hi> at length, by means of Friends in <hi>England,</hi> Petition'd His Majeſty, ſetting forth the Particulars of his Op<g ref="char:EOLhyphen"/>preſſions in <hi>Surinam,</hi> and His Majeſty was graciouſly pleaſed to order Mr. <hi>Blathwayt,</hi> Secretary of War, to repreſent the Matter to the States-General, who thereupon ordered, that the Governor of <hi>Surinam</hi> ſhould be written to, and ordered to let the ſaid <hi>Jeronimy Clifford</hi> depart from <hi>Surinam</hi> with his Goods unmoleſted, without further detaining of him.</p>
+               <p>That thereupon the ſaid <hi>Jeronimy,</hi> after having been near 4 years a Priſoner, was Diſcharg'd; and ſince his coming for <hi>Europe,</hi> has, for the Injuries done him, and his Damages ſuſtained, ſought Reparation of the <hi>Weſt-India</hi> Company of <hi>Holland,</hi> to whom the ſaid Colony of <hi>Surinam</hi> belongs; who gave for Anſwer, That they judg'd they were not concern'd in that Affair.</p>
+               <p>That thereupon the ſaid <hi>Jeronimy,</hi> according to the Articles of Peace between <hi>England</hi> and <hi>Holland,</hi> applied by <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Petition<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to the States General, and annex'd an Account of his Damages; who ſaid, It did not concern the <hi>Dutch Weſt-India</hi> Com<g ref="char:EOLhyphen"/>pany; and therefore diſmiſs'd his Suit againſt them; and Ordered, That in caſe he finds he has any juſt Reaſon of Complaint, he muſt demand the ſame at Law (from thoſe that he ſuppoſes to have damaged him) before the Ordinary Court of Juſtice, as he ſhould be adviſed.</p>
+               <p>That this ſeems to be a Publick and National Concern, and the denial of Repara<g ref="char:EOLhyphen"/>tion is contrary to the Twelfth Article of the Treaty Marine between <hi>England</hi> and <hi>Holland,</hi> concluded at <hi>London</hi> the Firſt of <hi>December,</hi> 1674. whereby Right ought to be done for any Unjuſt Sentences, in Three Months.</p>
+               <p>That the Matter of the ſaid Petitioner's Complaint being Examined by <hi>J. Van Burcht,</hi> and <hi>S. Van Schagen,</hi> Two Advocates or Counſellors of the States General in <hi>Holland,</hi> they reported, That Mr. <hi>Clifford</hi> demanding of the Society of <hi>Surinam</hi> (by an Account delivered in) Damages ſuſtained by ſeveral Unlawful Sentences at <hi>Surinam,</hi> amounting to the Sum of 224718 Guilders 5 Stivers. They had ſeen and examined all the reſpective Orders, Sentences, and other Papers of Proof belonging to each Article of the ſaid Account: And that they are of Opinion, That the ſaid <hi>Clifford</hi> hath been highly injur'd and wrong'd by the reſpective Lords Governors and Coun<g ref="char:EOLhyphen"/>cil of <hi>Surinam,</hi> by their Orders and Sentences tending to ruin him, and make them<g ref="char:EOLhyphen"/>ſelves Maſters of his Eſtate, and to hinder his tranſporting himſelf and his Goods,
+<pb n="3" facs="tcp:175466:2" rendition="simple:additions"/>as he was permitted by the Articles of Capitulation at <hi>Surinam;</hi> and that by the Twelfth Article of the Treaty of Commerce between <hi>England</hi> and <hi>Holland,</hi> the States ought to redreſs the ſame in Three Month's time. <hi>Dated at the</hi> Hague <hi>the</hi> 30th <hi>of</hi> September, 1697.</p>
+               <p>By all which, it appearing to this Committee that the Petitioners have been greatly Injured at <hi>Surinam,</hi> by the Governor and Council there by detaining their Eſtate contrary to the Articles of Capitulation, upon the Surrender of the ſaid Colony of <hi>Surinam,</hi> and by ſeveral unjuſt Sentences, and particularly that of Seven Years Impriſonment, together with a very great Fine Impoſed upon the ſaid <hi>Jeronimy,</hi> for only repreſenting his Grievances by Petition.</p>
+               <closer/>
+               <postscript>
+                  <opener>Reſolved,</opener>
+                  <p>That it is the Oppinion of this Committee, that the Houſe be moved, that an humble Addreſs be preſented to his Majeſty, that he would be graciouſly pleaſed ſo to Recommend the Petitioners, That Juſtice may be done them for the Damages they have Suſtained at <hi>Surinam.</hi>
+                  </p>
+               </postscript>
+            </div>
+            <div type="document">
+               <head>A true Copy of the Memorial deliver'd in to the States-General by the Extraordinary Ambaſſador his Excellency Sir <hi>Joſeph Williamſon,</hi> mention'd in the Petition.</head>
+               <p>WHereas <hi>Andrew</hi> and <hi>Jeronimy Clifford,</hi> Merchants, late Inhabitants of <hi>Suri<g ref="char:EOLhyphen"/>nam,</hi> having brought their Complaint before His Majeſty in Council, of the great Injuſtice which have been done them by the Governors and <hi>Dutch</hi> Council there, the under-written Ambaſſador Extraordinary of <hi>England</hi> has received Expreſs Orders from the King his Maſter, to uſe the beſt Office with the States-General, that ſpeedy Juſtice may be done them, as well in regard of Tranſporting their Eſtate out of the Colony of <hi>Surinam,</hi> according to what has been ſtipulated by the Arti<g ref="char:EOLhyphen"/>cles of Peace in the Year 1667, as alſo to the great Loſſes and Damages which they alledge they have ſince ſuffer'd by a long Impriſonment, and by the immenſe Sums which they have executed from them, under pretence of Fines and Pecuniary Mulcts.</p>
+               <p>This is what the ſaid Ambaſſador would willingly promiſe himſelf from the wonted Juſtice of the States-General, eſpecially ſince there is nothing that more imports the Conſervation of that Alliance and Friendſhip which the two Nations, by the good Providence of GOD, find themſelves ſo happily joined in them to take care on both ſides, to have ſpeedy and full Juſtice adminiſtred on all Occaſions, where their Subjects may pretend Matters of Complaint one againſt another.</p>
+               <closer>
+                  <dateline>In the <hi>Hague,</hi> 
+                     <date>the Second of <hi>September, 1698.</hi>
+                     </date>
+                  </dateline>
+                  <signed>Williamſon.</signed>
+               </closer>
+            </div>
+            <div type="document">
+               <head>Extract out of the States-Generals Octroys or Charters granted to the <hi>African</hi> Company of <hi>Holland, Anno 1674.</hi> and to the Inhabitants of the Colony of <hi>Surinam, Anno 1682,</hi> as follows.</head>
+               <p>THAT the Sentences pronounced within the Limits of theſe Octroys under which <hi>Surinam</hi> is Included, as well betwixt the Inhabitants againſt each o<g ref="char:EOLhyphen"/>ther, and alſo between the Inhabitants and Strangers, and likewiſe concerning all Controverſies within the Limits of theſe Octroys ſhall be counted as Sentences pronounced in <hi>Holland,</hi> by Judge of the Higheſt Courts of Juſtice, in which Caſes only Reviſie or Revierie may be deſired of the States General, or their Deputies; and that no Judge or Court of Judicature in <hi>Holland</hi> ſhall have any thing to ſay in ſuch Caſes, except the States-General, or their Deputies.</p>
+               <p>Hereby it appears, That the Ordinary Courts of Juſtice in <hi>Holland</hi> are not per<g ref="char:EOLhyphen"/>mitted to intermeddle in Judgments given at <hi>Surinam,</hi> ſo that the States-General's referring the Petitioners to Demand Reſtitution by the Ordinary Courts of Juſtice, is a plain Denial of any Reparation to them.</p>
+               <pb facs="tcp:175466:3" rendition="simple:additions"/>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <p>The CASE of <hi>ANDREW</hi> AND <hi>JERONIMY CLIFFORD.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
